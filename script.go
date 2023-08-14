@@ -1,0 +1,1 @@
+result := strings.Title('your-input-data')
